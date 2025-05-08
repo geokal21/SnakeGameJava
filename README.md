@@ -26,3 +26,13 @@ Just download and play
    ```bash
    git clone https://github.com/yourusername/snake-game-java.git
    cd snake-game-java
+
+## Authors
+
+   - **geokal21**
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE.md)
+Creative Commons License - use the [LICENSE.md](LICENSE.md) file for
+details.
